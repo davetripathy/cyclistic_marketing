@@ -56,4 +56,31 @@ You can generate insights by day of the week . [Click here to see an overview of
 ## Generate Sharable Insights
 
 ### Load your to Tableau or any other BI Platform
+#### Observe Differences in terms of Usage :-
+- In a particular month and season
+- On a particular day of the week  and also of the day of the month.
+- Type of Bike used
+- For a particular  destination ( Ending Station)
+- From a Particular Starting Station.
 
+# Share your Insights
+Here are my insights
+
+### [ A well prepared presentation explaining the differences between Casual Riders and Members] (https://docs.google.com/presentation/d/17LOzUGGbyhqdyhcNRBp_aisBxg0wKOvFJzbY0QfXJxw/edit?usp=sharing)
+
+#### [ Dashboard for spotting differences based on Month , Day and Day of the Week ](https://public.tableau.com/views/Cyclistic_Case_Study/DifferencebasedonMonthDay?:language=en-GB&:retry=yes&:display_count=n&:origin=viz_share_link)
+
+#### [ Dashboard for spotting differences based on Ride Type and Station ](https://public.tableau.com/views/Cyclistic_Case_Study_D02/DifferencesBasedonRideTypeLocation?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+
+### Act 
+
+-** Research the market and segment it.
+- Use a well formulated strategy(s) to target each segment of the market**
+- Convey the company's value propostion effectively to casual users
+-** Study a bit in detail about what you would be needing to form a effectively market strategy like age, occupation and reason for using the service and frequency of use etc to guide the formulation of market strategy
+**
+
+# Thank You 
+
+# ~ Debasish (Dev) Tripathy
